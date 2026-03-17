@@ -8,6 +8,7 @@ dependencies = [
     "scikit-learn>=1.8.0",
     "tensorflow[and-cuda]>=2.21.0",
     "tensorflow-datasets>=4.9.9",
+    "importlib-resources>=6.5.2",
 ]
 
 [dependency-groups]
